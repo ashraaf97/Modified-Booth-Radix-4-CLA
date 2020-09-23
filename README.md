@@ -1,5 +1,5 @@
 # Modified-Booth-Radix-4-CLA
-A verfilog project to demonstrate multiplication process of the computer using Modifired Booth Radix-4 algorithm. This code runs on altera FPGA board.
+A verilog project to demonstrate multiplication process of the computer using Modified Booth Radix-4 algorithm. This code runs on altera FPGA board.
 
 ### Design:
 ![image 1](https://i.imgur.com/sGXPyVM.png)
