@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/simulation/modelsim
+vcarry_look_ahead_16bit
+Z1 !s110 1557201865
+!i10b 1
+!s100 Z^T<IheC[nGTkjARF^PO=1
+I<46Yb;<LB7Gj6h?QZ_P6K1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1557201223
+Z4 8C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/MBA_module.v
+Z5 FC:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/MBA_module.v
+L0 119
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1557201865.000000
+Z8 !s107 C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/MBA_module.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4|C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/MBA_module.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4}
+Z12 tCvgOpt 0
+vcarry_look_ahead_4bit
+R1
+!i10b 1
+!s100 9W6z7Hac>_9N@ZP0Gz?:01
+Ie7f>^2@S[Lm?WTEB>alKT2
+R2
+R0
+R3
+R4
+R5
+L0 134
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vMBA_mod_tb
+R1
+!i10b 1
+!s100 LSg@JXLl5[eQZZ7P?gi]32
+IO8zRQ303o2cC0G>1KKUo73
+R2
+R0
+w1557201738
+8C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/MBA_mod_tb.v
+FC:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/MBA_mod_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/MBA_mod_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4|C:/Users/AXL_Rapid/Desktop/Modified Booth Radix-4/MBA_mod_tb.v|
+!i113 1
+R10
+R11
+R12
+n@m@b@a_mod_tb
+vMBA_module
+R1
+!i10b 1
+!s100 Xcmlk01RFJUBVd_EU<liA1
+Ide[lRI@Mz?W[hd3a^cYcz3
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@m@b@a_module
