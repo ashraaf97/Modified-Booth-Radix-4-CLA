@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue May 07 12:02:32 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : MBA_module
+Top-level Entity Name : MBA_module
+Family : Cyclone IV E
+Total logic elements : 203
+    Total combinational functions : 203
+    Dedicated logic registers : 40
+Total registers : 40
+Total pins : 33
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
